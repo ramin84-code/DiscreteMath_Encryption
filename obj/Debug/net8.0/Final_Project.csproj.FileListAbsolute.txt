@@ -1,0 +1,14 @@
+C:\doroose daneshgah\discrete_math\Final_Project\bin\Debug\net8.0\Final_Project.exe
+C:\doroose daneshgah\discrete_math\Final_Project\bin\Debug\net8.0\Final_Project.deps.json
+C:\doroose daneshgah\discrete_math\Final_Project\bin\Debug\net8.0\Final_Project.runtimeconfig.json
+C:\doroose daneshgah\discrete_math\Final_Project\bin\Debug\net8.0\Final_Project.dll
+C:\doroose daneshgah\discrete_math\Final_Project\bin\Debug\net8.0\Final_Project.pdb
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.AssemblyInfoInputs.cache
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.AssemblyInfo.cs
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.csproj.CoreCompileInputs.cache
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.dll
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\refint\Final_Project.dll
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.pdb
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.genruntimeconfig.cache
+C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\ref\Final_Project.dll
