@@ -1,0 +1,15 @@
+C:\git\gossate_finalProject\AesAlgorithm\bin\Debug\net8.0\AesAlgorithm.exe
+C:\git\gossate_finalProject\AesAlgorithm\bin\Debug\net8.0\AesAlgorithm.deps.json
+C:\git\gossate_finalProject\AesAlgorithm\bin\Debug\net8.0\AesAlgorithm.runtimeconfig.json
+C:\git\gossate_finalProject\AesAlgorithm\bin\Debug\net8.0\AesAlgorithm.dll
+C:\git\gossate_finalProject\AesAlgorithm\bin\Debug\net8.0\AesAlgorithm.pdb
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.AssemblyInfoInputs.cache
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.AssemblyInfo.cs
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.csproj.CoreCompileInputs.cache
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.sourcelink.json
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.dll
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\refint\AesAlgorithm.dll
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.pdb
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\AesAlgorithm.genruntimeconfig.cache
+C:\git\gossate_finalProject\AesAlgorithm\obj\Debug\net8.0\ref\AesAlgorithm.dll

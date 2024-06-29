@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualBasic;
-using Part3;
 using System;
 using System.Security.Cryptography;
 using System.Text;
@@ -7,11 +6,11 @@ using System.Xml.Linq;
 using Final_Project;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Part3;
 public class Program{
     public static bool is_Prime(int e){
         if(e<2)return false;
         for(int i =2;i<Math.Sqrt(e)+1;i++){if(e%i==0)return false;}
+        
         return true;
     }
     public static void Main(string [] args){

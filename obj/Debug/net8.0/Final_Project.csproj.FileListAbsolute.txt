@@ -12,3 +12,11 @@ C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\refint\Final_P
 C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.pdb
 C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\Final_Project.genruntimeconfig.cache
 C:\doroose daneshgah\discrete_math\Final_Project\obj\Debug\net8.0\ref\Final_Project.dll
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.AssemblyInfoInputs.cache
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.AssemblyInfo.cs
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.csproj.CoreCompileInputs.cache
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.sourcelink.json
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.dll
+c:\git\gossate_finalProject\obj\Debug\net8.0\refint\Final_Project.dll
+c:\git\gossate_finalProject\obj\Debug\net8.0\Final_Project.pdb

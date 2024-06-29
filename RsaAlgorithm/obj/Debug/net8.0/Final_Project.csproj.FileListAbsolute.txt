@@ -1,0 +1,15 @@
+c:\git\gossate_finalProject\RsaAlgorithm\bin\Debug\net8.0\Final_Project.exe
+c:\git\gossate_finalProject\RsaAlgorithm\bin\Debug\net8.0\Final_Project.deps.json
+c:\git\gossate_finalProject\RsaAlgorithm\bin\Debug\net8.0\Final_Project.runtimeconfig.json
+c:\git\gossate_finalProject\RsaAlgorithm\bin\Debug\net8.0\Final_Project.dll
+c:\git\gossate_finalProject\RsaAlgorithm\bin\Debug\net8.0\Final_Project.pdb
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.AssemblyInfoInputs.cache
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.AssemblyInfo.cs
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.csproj.CoreCompileInputs.cache
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.sourcelink.json
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.dll
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\refint\Final_Project.dll
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.pdb
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\Final_Project.genruntimeconfig.cache
+c:\git\gossate_finalProject\RsaAlgorithm\obj\Debug\net8.0\ref\Final_Project.dll
